@@ -1,5 +1,7 @@
 {
-    "name": "github-2580/charts5",
+    "name": "github2018/chartsV5",
+    "description": "Create charts for laravel using different charts libraries",
+    "license": "MIT",
     "require": {
         "github2580/charts:5.*"
     }
