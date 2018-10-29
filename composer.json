@@ -1,5 +1,6 @@
 {
+    "name": "github-2580/charts5",
     "require": {
-        "github2580/charts"
+        "github2580/charts:5.*"
     }
 }
